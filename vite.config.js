@@ -8,7 +8,7 @@ export default defineConfig({
   css: {
     postcss: './postcss.config.js',
   },
-   base: '/my-react-app/',
+   base: '/portfolio/',
   build: {
     outDir: 'dist'
   }
