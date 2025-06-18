@@ -14,14 +14,13 @@ function Home() {
    
      <div className={`${isVisible ? 'show' : 'hidden'}`} id="hidden1">
       <div className="home">
-
-        <div class="info">
+        <div className="info">
               <p className="p-8 " id="title">Full-Stack Software Developer</p>
         <h1 className="pl-8">I'm Francyelle Souza</h1>
         <p className="pt-2 pl-8" id="description">I design and develop systems and Websites</p>
         
         <div className="pt-8 pl-8 flex items-center justify-start">
-         <a href="/CV___Software_Engineer.pdf"> <p className="glass-button">Hire me | +</p></a>
+         <a href="/portfolio_fran/src/home/redesSociais/resources/CV___Software_Engineer.pdf"> <p className="glass-button">Hire me | +</p></a>
           
           <div className="pl-3">
             <button className="copy-btn" onClick={() => {
@@ -37,9 +36,9 @@ function Home() {
         </div>
             
         
-        <div class="status-indicator">
-        <div class="status-dot"></div>
-        <span class="status-text">Available for Job</span>
+        <div className="status-indicator">
+        <div className="status-dot"></div>
+        <span className="status-text">Available for Job</span>
     </div>
       </div>
       
