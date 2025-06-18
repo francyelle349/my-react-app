@@ -1,0 +1,27 @@
+
+section{
+
+    height: 500px;
+    width: 450px;
+    padding: 20px;
+    padding-left: 10px;
+    padding-top: 100px;
+
+    animation: fadeInPage 0.9s ease-in-out;
+
+    scroll-behavior: smooth;
+   
+}
+.title p{
+    font-size: 18px;
+}
+.layer{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.info{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
