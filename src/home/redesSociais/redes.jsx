@@ -23,7 +23,7 @@ function Redes(){
       </div>
 
       <div className='images'>
-        <img src='/portfolio_fran/woman2.svg' alt="" />
+        <img src='/woman2.svg' alt="" />
       </div>
 
         
