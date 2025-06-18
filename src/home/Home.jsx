@@ -19,7 +19,7 @@ function Home() {
           <p className="pt-2 pl-8" id="description">I design and develop systems and Websites</p>
         
           <div className="pt-8 pl-8 flex items-center justify-start">
-            <a href={`/public/cv.pdf`} 
+            <a href={`/cv.pdf`} 
                target="_blank">
               <p className="glass-button">Hire me | +</p>
             </a>
