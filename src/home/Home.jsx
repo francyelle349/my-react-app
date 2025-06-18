@@ -21,7 +21,7 @@ function Home() {
         <p className="pt-2 pl-8" id="description">I design and develop systems and Websites</p>
         
         <div className="pt-8 pl-8 flex items-center justify-start">
-         <a href="/CV___Software_Engineer.pdf"> <p className="glass-button">Hire me | +</p></a>
+         <a href="/my-react-app/CV___Software_Engineer.pdf"> <p className="glass-button">Hire me | +</p></a>
           
           <div className="pl-3">
             <button className="copy-btn" onClick={() => {
