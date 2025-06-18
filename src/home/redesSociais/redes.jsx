@@ -23,7 +23,7 @@ function Redes(){
       </div>
 
       <div className='images'>
-        <img src='/woman2.svg' alt="" />
+        <img src='my-react-app/woman2.svg' alt="" />
       </div>
 
         
