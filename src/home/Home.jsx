@@ -20,9 +20,7 @@ function Home() {
         
           <div className="pt-8 pl-8 flex items-center justify-start">
             <a href={`cv.pdf`} 
-               target="_blank" 
-               rel="noopener noreferrer"
-               download="CV_Francyelle_Souza.pdf">
+               target="_blank">
               <p className="glass-button">Hire me | +</p>
             </a>
           
